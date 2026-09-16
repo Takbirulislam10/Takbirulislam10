@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there, I'm Takbirul Islam Lamim  👋
 
-<!--
-**Takbirulislam10/Takbirulislam10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
+- 🤖 Passionate about **AI Engineering**, **Automation** and **Full-Stack Web Development**.
+- 💻 Building smart workflows, AI-driven applications and scalable web solutions.
+- 🛠️ Currently exploring advanced AI integration & automated workflow pipelines.
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack & Tools
+- **Languages:** Python, JavaScript, HTML5, CSS3
+- **Web & Automation:** Web Development, n8n, API Integration
+- **AI & ML:** Model Hosting, Prompt Engineering, Automation Workflows
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Connect with Me
+- 💼 **LinkedIn:** [your-linkedin-profile](https://linkedin.com/in/yourprofile)
+- 🌐 **Portfolio:** [your-website.com](https://your-website.com)
